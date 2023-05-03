@@ -1,0 +1,12 @@
+C:\Users\P2017\source\Repos\elastic-kibana.Logging\ElasticSearch.Core\bin\Debug\net6.0\ElasticSearch.Core.deps.json
+C:\Users\P2017\source\Repos\elastic-kibana.Logging\ElasticSearch.Core\bin\Debug\net6.0\ElasticSearch.Core.dll
+C:\Users\P2017\source\Repos\elastic-kibana.Logging\ElasticSearch.Core\bin\Debug\net6.0\ElasticSearch.Core.pdb
+C:\Users\P2017\source\Repos\elastic-kibana.Logging\ElasticSearch.Core\obj\Debug\net6.0\ElasticSearch.Core.csproj.AssemblyReference.cache
+C:\Users\P2017\source\Repos\elastic-kibana.Logging\ElasticSearch.Core\obj\Debug\net6.0\ElasticSearch.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P2017\source\Repos\elastic-kibana.Logging\ElasticSearch.Core\obj\Debug\net6.0\ElasticSearch.Core.AssemblyInfoInputs.cache
+C:\Users\P2017\source\Repos\elastic-kibana.Logging\ElasticSearch.Core\obj\Debug\net6.0\ElasticSearch.Core.AssemblyInfo.cs
+C:\Users\P2017\source\Repos\elastic-kibana.Logging\ElasticSearch.Core\obj\Debug\net6.0\ElasticSearch.Core.csproj.CoreCompileInputs.cache
+C:\Users\P2017\source\Repos\elastic-kibana.Logging\ElasticSearch.Core\obj\Debug\net6.0\ElasticSearch.Core.dll
+C:\Users\P2017\source\Repos\elastic-kibana.Logging\ElasticSearch.Core\obj\Debug\net6.0\refint\ElasticSearch.Core.dll
+C:\Users\P2017\source\Repos\elastic-kibana.Logging\ElasticSearch.Core\obj\Debug\net6.0\ElasticSearch.Core.pdb
+C:\Users\P2017\source\Repos\elastic-kibana.Logging\ElasticSearch.Core\obj\Debug\net6.0\ref\ElasticSearch.Core.dll
